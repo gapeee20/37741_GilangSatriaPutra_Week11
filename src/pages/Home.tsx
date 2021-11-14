@@ -25,7 +25,7 @@ const Home: React.FC = () => {
     addData().then(r => console.log ("Data Berhasil"));
     })
 
-    // aku sayang kamu
+    
   return (
     <IonPage>
       <IonHeader>
